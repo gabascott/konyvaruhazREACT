@@ -19,6 +19,21 @@
   color: white;
 }
 
+.busket{
+  
+}
+
+.kosarTable, tr, th, td{
+  border:1px solid black;
+  border-collapse:collapse;
+}
+
+.kosarTable{
+  margin:auto;
+  margin-top:5px;
+  width:50%;
+}
+
 article{
   min-height:85vh;
   display:flex;
